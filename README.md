@@ -1,4 +1,5 @@
-📘 Data Structures & Algorithms (C++)
+Data Structures and Algorithms in C++ 🚀
+
 
 This repository contains my DSA practice programs written in C++.
 
